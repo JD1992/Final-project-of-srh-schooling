@@ -1,0 +1,57 @@
+section {
+	margin        : 20px auto;
+	width         : 950px;
+	border-radius : 25px;
+}
+
+section a {
+	display         : block;
+	padding         : 20px;
+	background      : rgba(255, 243, 224, 0.5);
+	border-radius   : 25px;
+	text-decoration : none;
+}
+
+section a:link, section a:visited {
+	color : black;
+}
+
+section a:hover {
+	-webkit-box-shadow : 0 0 20px 0 rgba(0, 0, 0, 1);
+	-moz-box-shadow    : 0 0 20px 0 rgba(0, 0, 0, 1);
+	box-shadow         : 0 0 20px 0 rgba(0, 0, 0, 1);
+}
+
+figcaption {
+	width          : 100%;
+	font-size      : 30px;
+	font-weight    : bold;
+	padding-bottom : 10px;
+	text-align     : center;
+	border-bottom  : 2px solid white;
+	border-radius  : 25px;
+}
+
+figure img {
+	width : 25%;
+	padding: 10px;
+}
+
+figure div {
+	width   : 75%;
+	float   : right;
+	padding : 0 20px 0 35px;
+}
+
+main div.wrapContent {
+	width       : 100%;
+	float       : none;
+	padding     : 0;
+	display     : flex;
+	align-items : center;
+}
+
+section.notActive {
+	pointer-events : none;
+	background     : rgb(138, 138, 138);
+}

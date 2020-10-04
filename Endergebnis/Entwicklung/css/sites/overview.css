@@ -1,0 +1,64 @@
+section#overall {
+	text-align : center;
+}
+
+canvas#chart {
+	width      : 250px;
+	height     : 170px;
+	border     : 1px solid black;
+	background : white;
+}
+
+div.topicAreas {
+	width   : 50%;
+	padding : 10px;
+	float   : left;
+}
+
+div.listung {
+	padding       : 10px;
+	border-bottom : 2px solid slategray;
+}
+
+article {
+	margin-top : 10px;
+}
+
+article.done {
+	margin-bottom : 25px;
+}
+
+div.doneText {
+	float         : left;
+	padding-right : 20px;
+}
+
+div.listung article span.done {
+	background : green;
+}
+
+div.listung article span {
+	float      : left;
+	width      : 20px;
+	height     : 20px;
+	background : red;
+}
+
+div.listung a, div.listung a:link, div.listung a:visited {
+	pointer-events : none;
+	color          : black;
+	background     : none;
+}
+
+.floatClear:after {
+	content : "";
+	display : block;
+	clear   : both;
+}
+
+div.listung:hover a.listActive {
+	pointer-events : auto;
+	-webkit-box-shadow : 0 0 20px 0 rgba(0, 0, 0, 1);
+	-moz-box-shadow    : 0 0 20px 0 rgba(0, 0, 0, 1);
+	box-shadow         : 0 0 20px 0 rgba(0, 0, 0, 1);
+}

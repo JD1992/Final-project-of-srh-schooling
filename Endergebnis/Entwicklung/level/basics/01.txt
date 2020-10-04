@@ -1,0 +1,8 @@
+description:Huch, was ist denn das? Da ist dir ein Baumstamm im Weg. Führe den Bären um den Baumstamm herum zu dem Honig.;
+player:player.png;
+playerPosition:0,2;
+finish:finish.png;
+finishPosition:4,2;
+playfield:playfield.png,playfield1.png,playfield2.png;
+moves:1,up,1,down,1,right;
+obstacles:2,2,obstacle.png

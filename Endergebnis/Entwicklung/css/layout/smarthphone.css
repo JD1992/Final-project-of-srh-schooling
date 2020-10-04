@@ -1,0 +1,84 @@
+body, html, div#wrapper, main section.main, main section {
+	width : 100%;
+}
+
+main div#demo {
+	height : 200%;
+}
+
+nav {
+	position : static;
+}
+
+nav ul li {
+	width  : 100%;
+	float  : none;
+	border : none;
+}
+
+nav ul li a {
+	border : none;
+}
+
+main {
+	padding : 10px;
+}
+
+div#playArea {
+	width : 100%;
+}
+
+main div#gameArea {
+	width      : 100%;
+	margin-top : 50px;
+	padding-left: 0;
+}
+
+main section#headArea section div {
+	font-size: 20px;
+}
+
+div#playArea canvas {
+	width : 100%;
+}
+
+main div.topicAreas {
+	width : 100%;
+}
+
+footer ul#socialBar li {
+	width : 40%;
+}
+
+footer ul#socialBar li:hover {
+	-webkit-box-shadow : none;
+	-moz-box-shadow    : none;
+	box-shadow         : none;
+}
+
+footer div#sitemap {
+	text-align : left;
+}
+
+footer div#sitemap ul.sitemap {
+	width          : 100%;
+	border-right   : none;
+	border-bottom  : 2px solid slategray;
+	text-align     : center;
+	margin         : 5px auto;
+	padding-bottom : 5px;
+	font-size      : 20px;
+}
+
+footer div#sitemap ul.sitemap:last-of-type {
+	padding-bottom : 20px;
+	border-bottom: none;
+}
+
+footer div#sitemap ul.sitemap li.empty {
+	display : none;
+}
+
+footer #sitemap .sitemap li {
+	margin-bottom : 0;
+}

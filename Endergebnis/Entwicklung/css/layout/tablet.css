@@ -1,0 +1,44 @@
+body, html, div#wrapper, main section.main, main section {
+	width : 100%;
+}
+
+main {
+	padding : 50px 10px 20px 10px;
+}
+
+div#playArea {
+	width : 50%;
+}
+
+div#playArea canvas {
+	width : 100%;
+}
+
+.clearfix:after {
+	content    : ".";
+	clear      : both;
+	display    : block;
+	visibility : hidden;
+	height     : 0;
+}
+
+main div.wrapContent {
+	margin-top : 10px;
+}
+
+main section#topics > div {
+	width : 100%;
+}
+
+footer .sitemap {
+	width : 24%;
+}
+
+footer #sitemap {
+	padding-bottom : 10px;
+}
+
+
+footer ul a {
+	font-size: 16px;
+}

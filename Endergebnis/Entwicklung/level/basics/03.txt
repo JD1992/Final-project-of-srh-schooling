@@ -1,0 +1,7 @@
+description:Es ist ein Tutorial Level, sogar das erste dieser Art. Alter era mechanice acquireres tumultumque est. Cur domina tolerare? Cur orgia volare?;
+player:player.png;
+playerPosition:4,8;
+finish:finish.png;
+finishPosition:4,0;
+playfield:playfield.png,playfield1.png,playfield2.png;
+moves:1,up

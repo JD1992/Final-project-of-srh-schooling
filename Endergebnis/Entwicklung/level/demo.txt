@@ -1,0 +1,8 @@
+description:Hier siehst du eine Beispielaufgabe. An ihr kannst du nichts verändern, denn sie dient nur dazu dir zu zeigen wie der Aufbau
+der Aufgaben ist.;
+player:player.png;
+playerPosition:0,2;
+finish:finish.png;
+finishPosition:4,2;
+playfield:playfield.png,playfield1.png,playfield2.png;
+moves:4,right

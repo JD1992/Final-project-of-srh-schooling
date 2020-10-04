@@ -1,0 +1,8 @@
+description:Hier werden die beiden Bausteine aus den Übungen davor eingesetzt und nur mit beiden kannst du den Bären zu seinem Honig
+führen. Achte auf den Rand, da stößt sich der Bär nur den Kopf.;
+player:player.png;
+playerPosition:0,4;
+finish:finish.png;
+finishPosition:4,0;
+playfield:playfield.png,playfield1.png,playfield2.png;
+moves:1,up,1,right

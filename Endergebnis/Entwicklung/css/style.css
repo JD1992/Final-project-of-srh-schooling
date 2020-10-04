@@ -1,0 +1,4 @@
+@import url(layout/normalise.css);
+@import url(layout/desktop.css) screen;
+@import url(layout/tablet.css) screen and (min-width : 642px) and (max-width : 1024px);
+@import url(layout/smarthphone.css) screen and (max-width : 641px);

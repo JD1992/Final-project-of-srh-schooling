@@ -1,0 +1,10 @@
+description:Es ist ein Tutorial Level, sogar das erste dieser Art. Klicke den Baustein in der Wahlzone, mit der Linken Maustaste, an. Halte
+die Maustaste gedrückt und verschiebe den Baustein in die Laufzone und lasse die Maustaste dann los. Für Jeden Baustein bewegt sich der Bär
+ein Feld weiter. Also ziehe so viele Bausteine wie nötig in die Laufzone, sodass der Bär den Honig erreichen kann und drücke dann den Start
+Knopf.;
+player:player.png;
+playerPosition:2,4;
+finish:finish.png;
+finishPosition:2,0;
+playfield:playfield.png,playfield1.png,playfield2.png;
+moves:1,up

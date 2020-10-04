@@ -1,0 +1,8 @@
+description:Du hast es zu dem nächsten Level geschafft. Hier kannst du nur nach Rechts gehen. Also hopp, mach dich auf den Weg zum Ziel.
+Du kannst jetzt natürlich auch wieder zurück gehen, solltest du das Level davor nochmal lösen wollen.;
+player:player.png;
+playerPosition:0,2;
+finish:finish.png;
+finishPosition:2,2;
+playfield:playfield.png,playfield1.png,playfield2.png;
+moves:1,right
