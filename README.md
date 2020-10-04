@@ -1,10 +1,10 @@
 # Final project of SRH education
-This is my final project of the 2-year education at the SRH Fachschule Stuttgart, where I got the title "Staatlich 
+This is my final project of the 2-year education at the SRH Fachschule Stuttgart, where I received the title "Staatlich 
 anerkannter Informatiker für Game und Multimedia Entwicklung".
 
 
-It is mostly developed with PHP, JavaScript, HTML and CSS. Here are the technologies and a comment on what I used
- them for.
+This project is mostly developed with PHP, JavaScript, HTML and CSS. Here are the technologies and a short
+ explanation on what I used them for.
  
  * PHP
     * Dynamic sites construction like Wordpress. Parts that are no0t going to change are in separate files and loaded
